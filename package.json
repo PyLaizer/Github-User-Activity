@@ -1,0 +1,24 @@
+{
+  "name": "github-user-activity",
+  "version": "1.0.0",
+  "description": "A simple command line interface (CLI) to fetch the recent activity of a GitHub user.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PyLaizer/Github-User-Activity.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PyLaizer/Github-User-Activity/issues"
+  },
+  "homepage": "https://github.com/PyLaizer/Github-User-Activity#readme",
+  "bin": {
+    "github-activity": "./index.js"
+  },
+  "type": "module"
+}
